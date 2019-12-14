@@ -31,7 +31,7 @@ export default class Home extends Component {
                                 <div className="desc">
                                 <h1>Soy<br />Orgullo Mexicano</h1>
                                 <h2>Desarrollé las habilidades <br/>
-                                    de un Ingeniero de Redes.</h2>
+                                    de un Ingeniero de Software.</h2>
                                 <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1NmFZOFfERzA8Jyb2FoBrdFl51v4hFeZJHqeYvxELD7E/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Descargar CV<em className="icon-briefcase3" /></a></p>
                                 </div>
                             </div>
