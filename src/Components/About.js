@@ -13,11 +13,20 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">Sobre Mi</span>
                     <h2 className="colorlib-heading">¿Quién Soy?</h2>
-                    <p align="justify">Soy un amante de la tecnología me considero una persona autodidacta que siempre busca acualizar mis conocimientos dentro de la industia de las Tic´s y de la Arquitectura de Software,
-                    Estoy en proceso de convertirme en un verdadero Hacker abarcando temas como són programación, seguridad informática y hacking ético!.</p>
-                    <p align="justify">Estoy por comenzar con los cursos de platzi, para mejorar mis habilidades en las áres de desarollo web y de app móviles, usando herramientas tales
-                        como ReactJS & React-Native, para poder formarme como desarrollador FULL-STACK
-                    </p>
+                    <p align="justify">Soy un amante de la tecnología me considero una persona autodidacta que siempre busca estar en constante 
+                     estudio para poder ampliar mis conocimientos dentro de la industia de las tecnologias de la información y comunicación 
+                      y de la Arquitectura de Software. Por otra parte 
+                      estoy en cursos de seguridad informática y hacking ético pues deseo contribuir en la comunidad hacker y en la industria
+                      en poder hallar fallos de seguridad y poder dar brindar un mejor servicio y autonomia.
+                      Actualmente cuento con acceso a más de 20 cursos en la academia de platzi, 
+                     con el proposito de mejorar mis habilidades en las áres de desarollo web y de app móviles, usando herramientas tales
+                     como ReactJS & React-Native, para poder formarme como desarrollador FULL-STACK.</p>
+                     
+                     <p align="justify">
+                     Más allá de la tecnologia planeo seguir recorriendo el mundo y poder aprender algo nuevo a cualquier sitio que pueda
+                     visitar y seguir construyendo un mejor futuro para mi vida.
+                     </p>
+                     
                     </div>
                 </div>
                 </div>
@@ -40,9 +49,16 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Desarrollador Web </h3>
-                    <p align="justify">Tengo experiencia en el desarollo de sitios web bajo la estructura Frontend, usando las extensiones de Chrome como son: JavaScript, React, HTML, CSS</p>
-                    <p align="justify">Mejoro mis prácticas como programador en el desarollo de Backend, usando NodeJS, ReactJS, Express, etc...</p>
+                <h3>Estructura de Datos & Administración de Proyectos</h3>
+                <p align="justify">La gestión de proyectos es un conjunto de 
+                    metodologías que nos sirven para planificar 
+                    y dirigir los procesos de un proyecto. 
+                    Un proyecto comprende un cúmulo específico de operaciones 
+                    diseñadas para lograr un objetivo con un alcance, recursos, inicio y final establecidos.
+                    Bajo la dirección del PMBOOK la Guía de los 
+                   fundamentos para la dirección de proyectos es un libro en el que se presentan estándares,
+                   pautas y normas para la gestión de proyectos.</p>
+                    
                 </div>
                 </div>
             </div>
@@ -52,9 +68,16 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Estructura de Datos & Administración de Proyectos</h3>
-                    <p align="justify">Como programador desarrolle la práctica de documentar mis codigos para hacer de forma eficaz el desarrollo de sitios web.</p>
-                    
+                <h3>Desarrollo Web </h3>
+                <p align="justify">Un empleo sistemático y disciplinado de modelos, 
+                   métodos y modelos de ingeniería de software en la Web para el aseguramiento
+                   y control de la calidad favorece a la compresión y análisis y potencialmente 
+                   mejorar los desarrollos producidos.
+                   Crear una web para un negocio aposta credibilidad y 
+                   una buena imagen de marca de cara a los clientes, es también una buena opción
+                     para presentar con detalle tus servicios y/o productos 
+                     un buen escaparate de tu negocio, sea digital o con una sede física.</p>
+                   
                 </div>
                 </div>
             </div>
@@ -65,10 +88,15 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Base de Datos</h3>
-                    <p align="justify">Anteriormente he utilizado Base de Datos tales como MySql y PostgreSql actualmente me encuentro manejando MongoDB y los servicios de atlas</p>
-                    <p align="justify">Con la práctica desarollo la lógica en las estructuas de base de datos relaciones y no relaciones para evitar la 
-                        redundancia de datos.
-                    </p>
+                    <p align="justify">
+                    Las Bases de Datos tienen una gran relevancia a nivel personal, 
+                    pero más si cabe, a nivel empresarial, y se consideran una de las 
+                    mayores aportaciones que ha dado la informática a las empresas. 
+                    En la actualidad, cualquier organización que se precie, 
+                    por pequeña que sea, debe contar con una Base de Datos, 
+                    pero para que sea todo lo efectiva que debe, no basta con tenerla,
+                    también debemos como tienen que ser gestionadas.
+                        </p>
                 </div>
                 </div>
             </div>

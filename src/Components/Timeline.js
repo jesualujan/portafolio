@@ -8,8 +8,8 @@ export default class Timeline extends Component {
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">Sobresaliente</span>
-                <h2 className="colorlib-heading animate-box">Historial Académico</h2>
+                <span className="heading-meta">Sobresaliente 2020</span>
+                <h2 className="colorlib-heading animate-box">PROYECTOS A REALIZAR</h2>
               </div>
             </div>
             <div className="row">
@@ -21,12 +21,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Huawei <span>2015</span></h2>
-                        <p align="justify">“SEMILLAS PARA EL FUTURO” - En julio del año 2015 participe en la beca “SEEDS FOR THE FUTURE” 
-                         siendo parte de la primera generación de México en participar en esta convocatoria,
-                         tuve una estancia de un mes, la primer semana estuve en Beijing China donde estudie el idioma mandarín en la
-                          universidad de idiomas y caligrafía, las otras dos semanas restantes estuve en la ciudad de SHENZHEN donde 
-                          estuve desarrollando prácticas sobre telecomunicaciones en la empresa matriz de HUAWEI.</p>
+                        <h2>Platzi <span>  Cursos Online</span></h2>
+                        <p align="justify">Platzi es otra comunidad hacker con más de 20 cursos a los cuales tengo acceso
+                        para así poder convertirme en un master dentro de la tecnología , de los cuales actualmente llevo 
+                        matemáticas para programación, programación para Frontend y Backend con sus respectivos lenguajes
+                        de programación y previamente continuar con el curso de  Base de datos para empresas.</p>
                         </div>
                     </div>
                   </article>
@@ -36,9 +35,12 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Programación Android<span> 2015-2016</span></h2>
-                        <p align="justify">En el año 2016 tome cursos sobre Internet de todos e Internet de las cosas que la academia cisco brinda a través de los puntos México en el desarrollo de nuevas tecnologías e Innovación 
-                            Tome los cursos de la unam en programación básica en Android en línea.</p>
+                        <h2>Dev.f<span>  Cinta Negra</span></h2>
+                        <p align="justify">Tras finalizar con éxito el curso de cinta roja en la escuela
+                        de programación Dev.f, mi siguiente meta a cumplir es obtener el mayor grado
+                        de experiencia y conocimiento dentro de la arquitectura de software, por consiguiente
+                        planeo continuar con el curso de cinta negra ya que al finalizar el programa, me permitirá 
+                        especializarme en las mejores prácticas de ingeniería de software. </p>
                       </div>
                     </div>
                   </article>
@@ -48,8 +50,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Devf - Desarrollando personas <span>Actualmente</span></h2>
-                        <p align="justify">Gracias a una conferencia imporatida por GOOGLE - CRECE CON GOOGLE OAXACA formo parte del batch 35 de devf latinoameria - cinta roja, en el desarrollo de sistemas bajo la arquitectura cliente-servidor, próximo a obtener la cinta negra y desarrollar las habilidades de un Ingeniero de Software</p> 
+                        <h2>Master en Idiomas<span> Clases Presenciales</span></h2>
+                        <p align="justify">Mi gran meta es poder dominar los idiomas de Inglés Francés y Mandarín 
+                        para poder tener un master en cada uno de ellos y mejorar mis habilidades en la comunicación
+                        con el extranjero, ya que no solo basta con ser bilingüe, pues hoy las en día las empresas buscan
+                        personas políglotas que puedan proporcionar un alza a sus finanzas.</p> 
                       </div>
                     </div>
                   </article>

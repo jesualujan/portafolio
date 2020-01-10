@@ -32,7 +32,7 @@ export default class Home extends Component {
                                 <h1>Soy<br />Orgullo Mexicano</h1>
                                 <h2>Desarrollé las habilidades <br/>
                                     de un Ingeniero de Software.</h2>
-                                <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1v95sXb6YjBb-HuepqCa9SaXpAgz2wmsXBelFiiWKBeI/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Descargar CV<em className="icon-briefcase3" /></a></p>
+                                <p><a className="btn btn-primary btn-learn" href="curriculum.html" target="_blank" rel="noopener noreferrer">C.V. ESPAÑOL<em className="icon-briefcase3" /></a></p>
                                 </div>
                             </div>
                             </div>

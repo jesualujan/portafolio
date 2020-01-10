@@ -9,7 +9,7 @@ export default class Sidebar extends Component {
               <aside id="colorlib-aside" className="border js-fullheight">
                 <div className="text-center">
                   <div className="author-img" style={{backgroundImage: 'url(images/3.jpg)'}} />
-                  <h1 id="colorlib-logo"><a href="index.html">Ing. de Software</a></h1>
+                  <h1 id="colorlib-logo"><a href="/">Ingeniería de Software</a></h1>
                   <p>ESCRIBEME:
                   <a href="contacto.html"> <span className="email"><i className="icon-mail"></i> lujan.oficial@gmail.com</span></a>
                   </p>
@@ -36,7 +36,7 @@ export default class Sidebar extends Component {
                 <div className="colorlib-footer">
                   <p><small>
                       Desarrollemos tecnlogia con el <i className="icon-heart" aria-hidden="true" /> y <i className="icon-beer" aria-hidden="true"></i><br></br>
-                      Gracias <a href="https://devf.la/" target="_blank" rel="noopener noreferrer">a DEVF LATINOAMERIA</a> por la inspiración || Contáctame!
+                      Gracias a<a href="https://devf.la/" target="_blank" rel="noopener noreferrer"> DEVF LATINOAMERIA</a> por la inspiración || Contáctame!
                   </small></p>
                 </div>
               </aside>
