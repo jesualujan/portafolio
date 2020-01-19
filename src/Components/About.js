@@ -86,9 +86,9 @@ export default class About extends Component {
                     <h3>Base de Datos</h3>
                     <p align="justify">
                     En la actualidad, cualquier organización que se precie, 
-                    por pequeña que sea, debe contar con una Base de Datos, 
-                    pero para que sea todo lo efectiva que debe, no basta con tenerla,
-                    también debemos como tienen que ser gestionadas.
+                    por pequeña que esta sea,es fundamental que cuente con una Base de Datos, 
+                    pero para que sea del todo efectiva que debe ser, no basta con tenerla,
+                    también debemos saber como tienen que ser gestionadas o admnistradas.
                         </p>
                 </div>
                 </div>
