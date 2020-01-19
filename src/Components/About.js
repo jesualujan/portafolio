@@ -55,8 +55,7 @@ export default class About extends Component {
                     y dirigir los procesos de un proyecto. 
                     Un proyecto comprende un cúmulo específico de operaciones 
                     diseñadas para lograr un objetivo con un alcance, recursos, inicio y final establecidos.
-                    Bajo la dirección del PMBOOK la Guía de los 
-                    fundamentos para la dirección de proyectos.</p>
+                  </p>
                     
                 </div>
                 </div>
@@ -85,9 +84,9 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Base de Datos</h3>
                     <p align="justify">
-                    En la actualidad, cualquier organización que se precie, 
-                    por pequeña que esta sea,es fundamental que cuente con una Base de Datos, 
-                    pero para que sea del todo efectiva que debe ser, no basta con tenerla,
+                    En la actualidad, cualquier organización que se precie, por pequeña que esta sea, 
+                    es fundamental que cuente con una Base de Datos, pero para que sea 
+                    del todo efectiva que debe ser, no basta con tenerla,
                     también debemos saber como tienen que ser gestionadas o admnistradas.
                         </p>
                 </div>
