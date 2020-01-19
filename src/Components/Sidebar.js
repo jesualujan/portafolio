@@ -10,7 +10,7 @@ export default class Sidebar extends Component {
                 <div className="text-center">
                   <div className="author-img" style={{backgroundImage: 'url(images/3.jpg)'}} />
                   <h1 id="colorlib-logo"><a href="/">Ingeniería de Software</a></h1>
-                  <p>ESCRIBEME:
+                  <p>ESCRÍBEME:
                   <a href="mailto:lujan.oficial@gmail.com?Subject=Interesado%20en%20el%20curso"> <span className="email"><i className="icon-mail"></i> lujan.oficial@gmail.com</span></a>
                   </p>
                 </div>
