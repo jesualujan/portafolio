@@ -56,8 +56,7 @@ export default class About extends Component {
                     Un proyecto comprende un cúmulo específico de operaciones 
                     diseñadas para lograr un objetivo con un alcance, recursos, inicio y final establecidos.
                     Bajo la dirección del PMBOOK la Guía de los 
-                   fundamentos para la dirección de proyectos es un libro en el que se presentan estándares,
-                   pautas y normas para la gestión de proyectos.</p>
+                    fundamentos para la dirección de proyectos.</p>
                     
                 </div>
                 </div>
@@ -69,14 +68,11 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                 <h3>Desarrollo Web </h3>
-                <p align="justify">Un empleo sistemático y disciplinado de modelos, 
-                   métodos y modelos de ingeniería de software en la Web para el aseguramiento
-                   y control de la calidad favorece a la compresión y análisis y potencialmente 
-                   mejorar los desarrollos producidos.
+                <p align="justify">
                    Crear una web para un negocio aposta credibilidad y 
                    una buena imagen de marca de cara a los clientes, es también una buena opción
-                     para presentar con detalle tus servicios y/o productos 
-                     un buen escaparate de tu negocio, sea digital o con una sede física.</p>
+                   para presentar con detalle tus servicios y/o productos 
+                   un buen escaparate de tu negocio, sea digital o con una sede física.</p>
                    
                 </div>
                 </div>
@@ -89,9 +85,6 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Base de Datos</h3>
                     <p align="justify">
-                    Las Bases de Datos tienen una gran relevancia a nivel personal, 
-                    pero más si cabe, a nivel empresarial, y se consideran una de las 
-                    mayores aportaciones que ha dado la informática a las empresas. 
                     En la actualidad, cualquier organización que se precie, 
                     por pequeña que sea, debe contar con una Base de Datos, 
                     pero para que sea todo lo efectiva que debe, no basta con tenerla,
